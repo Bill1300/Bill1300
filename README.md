@@ -1,13 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3287ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3287ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabriel+Cerutti)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3287ff&size=35&center=true&vCenter=true&width=1000&lines=Olá+mundo,+me+chamo+Gabriel!)](https://git.io/typing-svg)
 
 ### Sobre
   Nome: **Gabriel Ângelo Cerutti**.<br/>
   Nome de usuário: **bill1300**.<br/>
-  Endereço: **Palotina, Paraná**.<br/>
+  Endereço: **Maripá/Palotina, Paraná**.<br/>
   Blog pessoal: **[bill1300.wordpress.com](https://bill1300.wordpress.com)**.
 
+### Alguns projetos
+  - [SenhaSegura](https://bill1300.github.io/senhasegura-docs/) e [SenhaSeguraApp](https://github.com/Bill1300/senhasegura-app?tab=readme-ov-file#readme)
+  - [atualizar](https://github.com/Bill1300/atualizar)
+  - [Linguax](https://bill1300.github.io/linguax-docs/)
+  - [ClimaAtual](https://github.com/Bill1300/ClimaAtual?tab=readme-ov-file#readme)
 
 ### Contato
 [![@bill1300](https://img.icons8.com/fluency/48/000000/instagram-new.png "@bill1300")](https://www.instagram.com/bill1300/)
