@@ -9,10 +9,10 @@
   Blog pessoal: **[bill1300.wordpress.com](https://bill1300.wordpress.com)**.
 
 ### Alguns projetos
-  - [SenhaSegura](https://bill1300.github.io/senhasegura-docs/) e [SenhaSeguraApp](https://github.com/Bill1300/senhasegura-app?tab=readme-ov-file#readme)
-  - [atualizar](https://github.com/Bill1300/atualizar)
-  - [Linguax](https://bill1300.github.io/linguax-docs/)
-  - [ClimaAtual](https://github.com/Bill1300/ClimaAtual?tab=readme-ov-file#readme)
+  - **[SenhaSegura](https://bill1300.github.io/senhasegura-docs/) e [SenhaSeguraApp](https://github.com/Bill1300/senhasegura-app?tab=readme-ov-file#readme)**
+  - **[atualizar](https://github.com/Bill1300/atualizar)**
+  - **[Linguax](https://bill1300.github.io/linguax-docs/)**
+  - **[ClimaAtual](https://github.com/Bill1300/ClimaAtual?tab=readme-ov-file#readme)**
 
 ### Contato
 [![@bill1300](https://img.icons8.com/fluency/48/000000/instagram-new.png "@bill1300")](https://www.instagram.com/bill1300/)
@@ -28,7 +28,8 @@
 ![Linux](https://img.shields.io/badge/Linux-%230074E4?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%230074E4.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
+<br>
 
-
+> "A imensa expansão da tecnologia deve ser acompanhada por uma adequada formação da responsabilidade pelo seu desenvolvimento. A liberdade e a convivência pacífica ficam ameaçadas, quando os seres humanos cedem à tentação do egoísmo, do interesse próprio, da ânsia de lucro e da sede de poder." –*Franciscus*, 2023.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3287ff&height=120&section=footer"/>
