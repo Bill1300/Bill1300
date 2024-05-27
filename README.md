@@ -12,7 +12,6 @@
   - **[SenhaSegura](https://bill1300.github.io/senhasegura-docs/) e [SenhaSeguraApp](https://github.com/Bill1300/senhasegura-app?tab=readme-ov-file#readme)**
   - **[atualizar](https://github.com/Bill1300/atualizar)**
   - **[Linguax](https://bill1300.github.io/linguax-docs/)**
-  - **[ClimaAtual](https://github.com/Bill1300/ClimaAtual?tab=readme-ov-file#readme)**
 
 ### Contato
 [![@bill1300](https://img.icons8.com/fluency/48/000000/instagram-new.png "@bill1300")](https://www.instagram.com/bill1300/)
